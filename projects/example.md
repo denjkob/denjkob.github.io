@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Projekt Example
-pagination:
-  enabled: true
 ---
 
 # My Project
