@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-## [Curriculum Vitæ](cv) | [Posts](posts) | [Projects](projects/example)
+## [Curriculum Vitæ](cv) | [Posts](posts) | [Projects](projects)
 
 # Hey, Ich bin Dennis!
 
