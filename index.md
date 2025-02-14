@@ -13,7 +13,7 @@ Privat bin ich oft in der Welt der Virtual Reality unterwegs. Die Technologie be
 
 Offenheit zu Dingen und Personen finde ich immer wichtig. So versuche ich immer ein offenes Ohr für neue Technologien und für die Bedürfnisse meiner Mitmenschen, seien sie Kunden, Nutzer oder meine Kollegen, zu haben.
 
-Lernbereitschaft ist eine Voraussetzung für Weiterentwicklung. Deswegen bin ich immer bereit, neues zu lernen und damit mein Wissen und Arbeitsweise immer wieder zu erneuern.
+Lernbereitschaft ist eine Voraussetzung für Weiterentwicklung. Deswegen bin ich immer bereit, neues zu lernen und damit mein Wissen und meine Arbeitsweise immer wieder zu erneuern.
 
 Möchten Sie mehr wissen? Schauen sie sich gerne um. Sie können sich mein [CV](cv) sowie meine bisherigen [Projekte](projects) hier anschauen!
 
