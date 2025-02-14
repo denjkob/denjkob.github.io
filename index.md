@@ -3,6 +3,8 @@ layout: home
 title: Home
 ---
 
+## [Curriculum Vitæ](cv) | [Posts](posts) | [Projects](404)
+
 # About
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
