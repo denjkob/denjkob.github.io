@@ -1,26 +1,28 @@
 title: Dennis Jakob
-description: Dennis Jakob Online CV
+description: Software Developer | Technical Artist
 baseurl: ""
-url: https://denjkob.github.io
+url: https://piazzai.github.io/cvless
 
 theme: cvless
 
 # site settings
 taglong: Software Developer | Technical Artist
-tagshort: Software Developer
+tagshort: Software Dev | Technical Artist
 
 # author settings
 author:
   name: Dennis Jakob
   email: denjako@web.de
-photo: assets/files/icon.png
-address: Bergisch Gladbach, Germany
+photo: assets/files/photo.jpg
+address: Bergisch Gladbach
 
 # profile links
 profile:
-  linkedin: https://www.linkedin.com/in/dennis-jakob-b177502b7/
-  xing: https://www.xing.com/profile/Dennis_Jakob10
-  github: https://github.com/denjkob
+  bluesky: https://bsky.app/profile/username.bsky.social
+  linkedin: https://www.linkedin.com/in/username
+  xing: https://www.xing.com/profile/username
+  stackoverflow: https://stackoverflow.com/users/0000000/username
+  github: https://github.com/username
 
 # build settings
 permalink: pretty
@@ -34,10 +36,17 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-gist
-  - jekyll-paginate-v2
   - jekyll-seo-tag
+  - jekyll-paginate-v2
   - jekyll-sitemap
 
 sass:
   sourcemap: never
   
+pagination:
+  enabled: true
+  debug: true
+  per_page: 3
+  sort_reverse: true
+  permalink: /:num/
+  title: ":title &middot; Page :num"
