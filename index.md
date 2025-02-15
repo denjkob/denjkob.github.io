@@ -15,6 +15,6 @@ Offenheit zu Dingen und Personen finde ich immer wichtig. So versuche ich immer 
 
 Lernbereitschaft ist eine Voraussetzung für Weiterentwicklung. Deswegen bin ich immer bereit, neues zu lernen und damit mein Wissen und meine Arbeitsweise immer wieder zu erneuern.
 
-Möchten Sie mehr wissen? Schauen sie sich gerne um. Sie können sich mein [CV](cv) sowie meine bisherigen [Projekte](projects) hier anschauen!
+Interesse geweckt? Hier sind mein [CV](cv) sowie meine bisherigen [Projekte](projects) zu sehen!
 
 {% include archive.html %}
