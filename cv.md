@@ -9,24 +9,44 @@ title: CV
 
 ## Über Mich
 
-Mit einem erfolgreichen Bachelor-Abschluss in Medieninformatik und 3 Jahre Erfahrung als Software Entwickler habe ich umfassende Kenntnisse in 3D - Modellierung, Real Time 3D Engines sowie gute Programmierkenntnisse in Java und C#/.NET. Meine Fähigkeiten in der Adobe Suite sowie Kenntnisse zur Web Entwicklung im Front- und Backend geben mir ein breit gefächertes Wissen welches es mir möglich macht flexibel einsetzbar zu sein und zwischen verschiedenen Entwicklungsbereichen verhandeln zu können.
+Mit einem erfolgreichen Bachelor-Abschluss in Medieninformatik und 3 Jahre Erfahrung als Software Entwickler habe ich umfassende Kenntnisse in **3D - Modellierung**, **Real Time 3D Engines** sowie gute Programmierkenntnisse in **Java und C#/.NET**. Meine Fähigkeiten in der **Adobe Suite** sowie Kenntnisse zur **Web Entwicklung im Front- und Backend** geben mir ein breit gefächertes Wissen welches es mir möglich macht flexibel einsetzbar zu sein und zwischen verschiedenen Entwicklungsbereichen verhandeln zu können.
 
 ## Berufserfahrung
 ### Software Entwickler | Technical Artist
 
 evrbit GmbH, Standort: Köln
-
 04.2021 – 03.2024
-- Erstellung von 3D Objekten für Realtime Game Engines von Modelling bis zu Rigging und Animation. Optimierung von Modellen bei gleichbleibender Qualität zu detaillierten CAD Modellen
-- Scripting von komplexen Gamemechaniken in C#
+
+- Erstellung von 3D Objekten für Realtime Game Engines von Modelling, Rigging, Texturing und Animation, mit dem Ziel der Performance- Optimierung ohne Qualitätsverlust
+- Scripting von komplexen Gamemechaniken in C# und Integration der Businesslogik
 - Bildbearbeitung, Videoediting
-- Erarbeitung und erfolgreiche Umsetzung von „Bleeding Edge“ Technologien in Projekten im WebGL/WebXR Bereich
+- Erarbeitung und erfolgreiche Umsetzung von innovativen Technologien in WebGL/WebXR
 - Erfolgreiche Mitarbeit an der App und Website AR Galaxy für Samsung
+
+## Qualifizierung
+### C#/.NET
+
+IBB Institut für Berufliche Bildung AG, Köln
+10.2024 – 11.2024
+
+
+- Erfolgreiche Qualifizierung in Kursen C# Objektorientierung, C# Erweiterte      Techniken, C# Anwendungsentwicklung
+- Zusätzliche erfolgreiche Qualifizierung in Lernen und Arbeiten in einer digitalen Lernumgebung
 
 ## Bildung
 ### Bachelor in Medieninformatik (Bachelor of Science)
 
 TH Köln, Standort: Gummersbach
+
+Schwerpunkte:
+
+- Software Development
+- DevOps
+- UX Design
+- Mensch-Computer Interaktion
+- User Research
+- Medientechnik
+
 
 08.2015 – 02.2021
 ### Allgemeine Hochschulreife
@@ -35,7 +55,19 @@ Gesamtschule Paffrath, Standort: Bergisch Gladbach
 08.2006 – 04.2015
 
 ## Fähigkeiten und Kenntnisse
-C#, .NET, Cinema4D, Blender, Unity3D, Github, Git, Mercurial, Datenbanken, REST, JavaScript, HTML, CSS, Substance Painter, Three.js, 3D Modellierung, Adobe Suite, Matterport, Meta Spark, iOS Quicklook, UI Development und Design, JSON, Excel
+**Programmiersprachen:** C#, JavaScript, HTML, CSS
+
+**Datenbanken:** SQL
+
+**Engines und IDEs:** Unity3D, Three.js, Eclipse, IntelliJ, Visual Studio
+
+**3D Modelling Software:** Blender, Cinema4D, Substance Painter
+
+**Tools und Versionierung:** Github, Git, Mercurial, Jira, Miro
+
+**Bildbearbeitung:** FFMPEG, Adobe Suite
+
+**Sonstiges:** Matterport, Meta Spark, iOS Quicklook, Excel, REST, UX Development und Design, JSON
 
 ### Sprachkenntnisse
 
@@ -44,11 +76,13 @@ Deutsch: Muttersprache
 Englisch: C1 Niveau
 
 ### Soft Skills
-- Effektive Teamarbeit vor Ort und Remote
+
+- Erfolgreiche Teamarbeit vor Ort und Remote durch Einsatz von agilen Methoden
 - Schnelle Auffassungsgabe und Umsetzung von neuen Technologien in aktiven Projekten
-- Ausgeprägter Sinn für Kommunikation, Präsentation von Arbeitsergebnissen in täglichen Stand-Ups
-- Kollaboratives Arbeiten mit Tools wie Git, Jira, Mercurial und Miro
+- Präsentation von Arbeitsergebnissen in täglichen Stand-Ups, welches zur besseren Zusammenarbeit und zügiger Problemlösung beträgt
+- Kollaboratives Arbeiten mit Tools zur effektiven Unterstützung der Zusammenarbeit
 
 ### Hobbys und Interessen
-- Virtual Reality: Tiefes Wissen aus fast täglicher Nutzung der Technologie und Erfahrung in Wartung und Fehlerbehebung
-- Streaming: Aufbau eines persönlichen Livestreams mit Fokus auf Gaming Inhalte
+
+- **Virtual Reality:** Tiefes Wissen aus fast täglicher Nutzung der Technologie und Erfahrung in Wartung und Fehlerbehebung
+- **Streaming:** Aufbau eines persönlichen Livestreams mit Fokus auf Gaming Inhalte
