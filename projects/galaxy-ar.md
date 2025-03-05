@@ -4,13 +4,16 @@ title: Galaxy AR
 ---
 
 # AR Galaxy | Erweiterte Realität in App und Web
+## 2021-2024
 
-![Galaxy AR](../../assets/files/phone-samsung.png "Beispiel Handy in Web Anwendung")
+**Rolle**: Technical Artist, 3D Generalist
+| **Firma**: evrbit
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
+![AR Galaxy](../../assets/files/phone-samsung.png "Beispiel Handy in Web Anwendung")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/il3Txqgol8U?si=mLqZk4e3hv9y3ai1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Für Samsung wurde in der Zusammenarbeit mit evrbit über 5 Jahre eine App sowie mehrere Web Präsenzen für Sales Force, Point of Sale und Endkunden unter dem Namen "Samsung AR Galaxy" entwickelt. Ziel dieses Eco Systems war die Präsentation und das Marketing aktueller Produkte in Form von integrierten 3D und AR Viewern welche den Nutzern ein besseres Verständnis für die Produkte von Samsung und deren Features liefert. 
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   
+In meiner Rolle als Technical Artist war ich zuständig für die Ausarbeitung der 3D Modelle. Für Handys, Smart Watches sowie Laptops habe ich performante 3D Modelle ausgearbeitet. Von Mesh über Texturing bis hin zum Rigging war ich maßgeblich zuständig dafür das sowohl die Qualität als auch Performance auf allen gängigen Mobilgeräten unseren Maßstäben und die unseres Kunden entsprach.
+Zudem war ich verantwortlich für die Erstellung einiger Filter auf Instagram und Facebook die nochmal in einer spielerischen Form auf die Produkte von Samsung aufmerksam machen.
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
+Ein gutes Beispiel ist noch unter der [Samsung AR Galaxy Website](https://ar-galaxy.de/) zu betrachten.

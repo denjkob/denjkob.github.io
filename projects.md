@@ -5,7 +5,10 @@ title: Projekte
 
 # Projekte
 
-Hier werden in Zukunft meine vergangenen und aktuellen Projekte aufgelistet sein.
+Hier sind meine vergangenen und aktuellen Projekte aufgelistet. 
 
-<!-- ## [AR Galaxy - Erweiterte Realität in App und Web | 2022 - 2024](404.md)
-## [Bachelorarbeit - Virtual Reality als Kommunikationsinstrument in Social Games | 2021](404.md) -->
+Diese Liste wird ständig ergänzt.
+
+## [Samsung AR Galaxy - Erweiterte Realität in App und Web | 2021 - 2024](projects/galaxy-ar.md)
+## [Bachelorarbeit - Virtual Reality als Kommunikationsinstrument in Social Games | 2021](projects/bachelorarbeit.md)
+
