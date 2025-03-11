@@ -6,12 +6,19 @@ title: Bachelorarbeit
 # Bacherlorarbeit | Virtual Reality als Kommunikationsinstrument in Social Games
 ## 2021
 
+**Rolle**: Student, Medien Informatiker
+| **Client**: Technische Hochschule Köln
+
 ![Handgesten](../../assets/files/hand-gestures.png "Hand Gesten in VR")
 
-Auszug aus dem Abstract meiner Bachelor Arbeit:
+Abstract meiner Bachelor Arbeit:
 
-"Social Games, beziehungsweise Spiele mit dem zentralen Ziel der Kommunikation und
-Interaktion mit anderen Nutzern, bieten eine Plattform zum Kommunizieren im Internet. Bekannte Kommunikationsarten im Internet wie Text Nachrichten, Sprach Anrufe und Video Anrufe werden hier erweitert oder auch ergänzt durch einen drei- oder zwei-dimensionalen Raum den Nutzer nutzen können, um über mehr "Kanäle" zu kommunizieren, auch nonverbal. Während solche Spiele durch MMOs oder das bekannte Second Life bereits seit einiger Zeit existieren und analysiert wurden, namentlich mit dem ersten MMORPG ”[Habitat](https://en.wikipedia.org/wiki/Habitat_(video_game))“ von 1987, wurde mit 3D Umgebungen und Virtual Reality Technologie dieses Spiel Prinzip nochmals erweitert.
-Mit Virtual Reality wird Nutzern die Möglichkeit gegeben sich auch mit Handbewegungen und Kopfbewegungen zu verständigen. Der Nutzer wird in eine völlig digitale Umgebung eingefügt, um ein größeres Maß der ”Immersion“ zu erreichen.
+"In dieser Bachelorarbeit sollen die Vorteile und Nachteile analysiert werden von Virtual Reality als Kommunikationsinstrument in Social Games, gemeint hier sind Spiele mit dem primären Ziel der Kommunikation von Personen, im Vergleich zu Video-Konferenzen oder Video Telefonaten über das Internet. Hierbei werden Virtual Reality Headsets, eine Kombination aus einem “head mounted displays” und Controllern zum Tracking der Hände verwendet.
+Es werden eine Gruppe, die über Online-Konferenz Software kommuniziert mit einer
+Gruppe, die über ein Social Game mithilfe von Virtual Reality kommuniziert verglichen um Unterschiede und Möglichkeiten beider Methoden zu ermitteln.
+Die Kommunikation wurde mithilfe von ausgewählten Kommunikationsmodellen von Shannon (1948),Weaver (1949), von Thun (2013), Watzlawick (1969) und Bühler (1982) untersucht.
+Das Ergebnis gibt Aufschluss auf Anforderungen an Virtual Reality Technologie und
+zeigt, dass der momentane Trend in dieser Domäne in der Entwicklung von besserer Hardware auch vorteilhaft für die Kommunikation zwischen Personen sein kann.
+Es wird zudem aufgezeigt, dass Virtual Reality Software und die Möglichkeiten die sie präsentiert zur Unterstützung einer Kommunikation beitragen können aber auch stören können. Das Ziel dieser Arbeit ist ein besseres Verständnis für die Eigenheiten in VR gestützter Kommunikation und möchte Ansätze aufzeigen, worauf es hier zu achten gilt"
 
-Diese Arbeit befasst sich damit, wie die Möglichkeiten von VR die Kommunikation in Social Games erweitern oder verändern und welche Anforderungen Hardware sowie Software haben, um Kommunikation so nah wie möglich an das Äquivalent der Kommunikation in Person zu erreichen. Dabei werden gängige Kommunikationsmodelle betrachtet und angewendet. Als Beispiel soll die Kommunikation bei einem sogenannten Pen and Paper Spiel betrachtet werden in Virtual Reality und als Vergleichswert über eine Video Konferenz Plattform wie Zoom."
+Die komplette Arbeit ist [hier](../../assets/files/bachelorarbeit-virtualrealityalskommonikationsinstrument.pdf) zu lesen.

@@ -4,9 +4,19 @@ title: Matterport
 ---
 
 # Matterport im Büro | Realität digitalisieren und erweitern
+## 2021-2024
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
+**Rolle**: Technical Artist, App Content Creator
+| **Client**: evrbit
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   
+![Coffee making at evrbit](../../assets/files/coffeemaking.jpg "Sicht auf die Kaffee Maschine im Büro der evrbit")
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
+Mit [Matterport](https://matterport.com/) ist es möglich, Räume wie in Google Maps Street View begehbar zu machen. Hierzu werden zunächst 360 Grad Bilder mit einer LiDAR Kamera gemacht von unterschiedlichen Positionen. Diese werden zusammengefügt als zusammenhängende Experience eines begehbaren Raums.
+
+Was Matterport von anderen Erfahrungen dieser Art unterscheidet ist dass der Raum auch in der Tiefe aufgenommen wird mithilfe von LiDAR Technologie und ein 3D Modell erstellt wird. In diesem 3D ist es dann auch möglich, neue Objekte ein zu fügen und damit zu erweitern.
+
+![Coffee making at evrbit](../../assets/files/dollhouse.jpg "'Dollhouse View' der Küche")
+Bei diesem Projekt war ich zuständig für die Bild Aufnahmen des Raumes sowie die zusätzlichen Objekte in 3D. Zudem war ich zuständig für die Animationen und unabhängigen 3D Ansichten die es möglich machten, Objekte abseits von dem Raum im Detail zu betrachten.
+
+Die letzte Version können sie unter dieser Website betrachten: [Coffee making at evrbit](https://lab.evrbit.com/23-207_evrbit_MatterportKueche/)
+

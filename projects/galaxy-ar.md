@@ -7,7 +7,7 @@ title: Galaxy AR
 ## 2021-2024
 
 **Rolle**: Technical Artist, 3D Generalist
-| **Firma**: evrbit
+| **Client**: Samsung, evrbit
 
 ![AR Galaxy](../../assets/files/phone-samsung.png "Beispiel Handy in Web Anwendung")
 
