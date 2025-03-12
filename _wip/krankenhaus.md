@@ -1,6 +1,7 @@
 ---
 layout: page
 title: XR
+year: 2023
 ---
 
 # XR Krankenhaus WIP

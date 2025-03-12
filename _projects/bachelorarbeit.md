@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Bachelorarbeit
+title: Bacherlorarbeit | Virtual Reality als Kommunikationsinstrument in Social Games
+year: 2021
 ---
-
-# Bacherlorarbeit | Virtual Reality als Kommunikationsinstrument in Social Games
 ## 2021
 
 **Rolle**: Student, Medien Informatiker

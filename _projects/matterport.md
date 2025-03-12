@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Matterport
+title: Matterport im Büro | Realität digitalisieren und erweitern
+year: 2023
 ---
-
-# Matterport im Büro | Realität digitalisieren und erweitern
-## 2021-2024
+## 2023
 
 **Rolle**: Technical Artist, App Content Creator
 | **Client**: evrbit

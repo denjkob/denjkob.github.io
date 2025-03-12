@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Galaxy AR
+title: AR Galaxy | Erweiterte Realität in App und Web
+year: 2024
 ---
-
-# AR Galaxy | Erweiterte Realität in App und Web
 ## 2021-2024
 
 **Rolle**: Technical Artist, 3D Generalist
