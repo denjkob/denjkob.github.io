@@ -9,7 +9,7 @@ title: CV
 
 ## Über Mich
 
-Mit einem erfolgreichen Bachelor-Abschluss in Medieninformatik und 3 Jahre Erfahrung als Software Entwickler habe ich umfassende Kenntnisse in **3D - Modellierung**, **Real Time 3D Engines** sowie gute Programmierkenntnisse in **Java und C#/.NET**. Meine Fähigkeiten in der **Adobe Suite** sowie Kenntnisse zur **Web Entwicklung im Front- und Backend** geben mir ein breit gefächertes Wissen welches es mir möglich macht flexibel einsetzbar zu sein und zwischen verschiedenen Entwicklungsbereichen verhandeln zu können.
+Mit einem erfolgreichen Bachelor-Abschluss in Medieninformatik und 3 Jahre Erfahrung als Software Entwickler habe ich umfassende Kenntnisse in **3D - Modellierung**, **Real Time 3D Engines wie Unity3D** sowie gute Programmierkenntnisse in **Java und C#/.NET**. Meine Fähigkeiten in der **Adobe Suite** sowie Kenntnisse zur **Web Entwicklung im Front- und Backend mit HTML5, CSS3 und JavaScript** geben mir ein breit gefächertes Wissen um maßgeschneiderte Lösungen zu liefern und viele kreative und technische Herausforderungen zu meistern.
 
 ## Berufserfahrung
 ### Software Entwickler | Technical Artist
@@ -30,7 +30,7 @@ IBB Institut für Berufliche Bildung AG, Köln
 10.2024 – 11.2024
 
 
-- Erfolgreiche Qualifizierung in Kursen C# Objektorientierung, C# Erweiterte      Techniken, C# Anwendungsentwicklung
+- Erfolgreiche Qualifizierung in Kursen C# Objektorientierung, C# Erweiterte Techniken, C# Anwendungsentwicklung
 - Zusätzliche erfolgreiche Qualifizierung in Lernen und Arbeiten in einer digitalen Lernumgebung
 
 ## Bildung
@@ -57,17 +57,17 @@ Gesamtschule Paffrath, Standort: Bergisch Gladbach
 ## Fähigkeiten und Kenntnisse
 **Programmiersprachen:** C#, JavaScript, HTML, CSS
 
-**Datenbanken:** SQL
+**Datenbanken:** MySQL
 
 **Engines und IDEs:** Unity3D, Three.js, Eclipse, IntelliJ, Visual Studio
 
 **3D Modelling Software:** Blender, Cinema4D, Substance Painter
 
-**Tools und Versionierung:** Github, Git, Mercurial, Jira, Miro
+**Tools und Versionierung:** Github, Gitlab, Git, Mercurial, Jira, Miro
 
 **Bildbearbeitung:** FFMPEG, Adobe Suite
 
-**Sonstiges:** Matterport, Meta Spark, iOS Quicklook, Excel, REST, UX Development und Design, JSON
+**Sonstiges:** Matterport, Meta Spark, iOS Quicklook, Excel, REST, UX Development und Design, JSON, Linux Kommandozeile, Objektorientierung
 
 ### Sprachkenntnisse
 
