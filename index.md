@@ -15,10 +15,10 @@ Während das Frontend meine Domäne ist, so habe ich auch einige Tricks im Backe
 
 Privat bin ich oft in der Welt der Virtual Reality unterwegs. Interaktive Erfahrungen, die visuell als auch informativ beeindruckend sind und jemanden die Welt auf eine ganz andere Art erleben lassen sind eine Leidenschaft von mir. Die Technologie begeistert mich einfach und ich habe privat und im Beruf in einigen Projekten meine eigenen kreativen XR Erlebnisse umgesetzt.
 
-Ich finde es wichtig, offen gegenüber neuen Ideen und Bedürfnissen von Menschen zu sein. So habe ich immer ein offenes Ohr für neue Technologien und wie sie unsere Welt besser machen können.
+Ich finde es wichtig, offen gegenüber neuen Ideen und Bedürfnissen von Menschen zu sein. Ich bin immer offen neue Technologien zu recherchieren, zu erlernen und wie sie unsere Welt besser machen können.
 
-Lernbereitschaft ist eine Voraussetzung für Weiterentwicklung. Deswegen bin ich immer bereit, neues zu lernen und damit mein Wissen und meine Arbeitsweise immer wieder zu erneuern.
+Lernbereitschaft ist immerhin eine Voraussetzung für Weiterentwicklung. Deswegen bin ich immer bereit, neues zu lernen und damit mein Wissen und meine Arbeitsweise immer wieder zu erneuern.
 
-Interesse geweckt? Hier sind mein [CV](cv)/Lebenslauf sowie meine bisherigen [Projekte](projects) zu sehen!
+Interesse geweckt? Hier sind mein [CV](cv)/Lebenslauf sowie meine bisherigen [Projekte](projects) zu sehen! Ich würde mich über eine Kontaktaufnahme freuen!
 
 {% include archive.html %}

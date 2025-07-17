@@ -17,5 +17,3 @@ Was Matterport von anderen Erfahrungen dieser Art unterscheidet ist dass der Rau
 ![Coffee making at evrbit](../../assets/files/dollhouse.jpg "'Dollhouse View' der Küche")
 Bei diesem Projekt war ich zuständig für die Bild Aufnahmen des Raumes sowie die zusätzlichen Objekte in 3D. Zudem war ich zuständig für die Animationen und unabhängigen 3D Ansichten die es möglich machten, Objekte abseits von dem Raum im Detail zu betrachten.
 
-Die letzte Version können sie unter dieser Website betrachten: [Coffee making at evrbit](https://lab.evrbit.com/23-207_evrbit_MatterportKueche/)
-

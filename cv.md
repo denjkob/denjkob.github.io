@@ -11,7 +11,16 @@ title: CV
 
 Mit einem erfolgreichen Bachelor-Abschluss in Medieninformatik und 3 Jahre Erfahrung als Software Entwickler habe ich umfassende Kenntnisse in **3D - Modellierung**, **Real Time 3D Engines wie Unity3D** sowie gute Programmierkenntnisse in **Java und C#/.NET**. Meine Fähigkeiten in der **Adobe Suite** sowie Kenntnisse zur **Web Entwicklung im Front- und Backend mit HTML5, CSS3 und JavaScript** geben mir ein breit gefächertes Wissen um maßgeschneiderte Lösungen zu liefern und viele kreative und technische Herausforderungen zu meistern.
 
-## Berufserfahrung
+## Beruflicher Werdegang
+### Sabbatical
+04.2024 - heute
+
+- Sabbatical zur Weiterbildung und beruflicher Neuorientierung mit entgültigem Entschluss, wieder beruflich als Software Entwickler tätig zu werden
+- Erfolgreiche Qualifizierung in Kursen C# Objektorientierung, C# Erweiterte Techniken, C# Anwendungsentwicklung, Ort: IBB Institut für Berufliche Bildung AG, Köln
+- Zusätzliche erfolgreiche Qualifizierung in Lernen und Arbeiten in einer digitalen Lernumgebung
+- Erlernen vom Three.js Framework und Blender im Selbststudium
+- Bewerbungstraining zur Hilfe eigener Vermarktung und Hilfe bei Neuorientierung
+
 ### Software Entwickler | Technical Artist
 
 evrbit GmbH, Standort: Köln
@@ -22,16 +31,6 @@ evrbit GmbH, Standort: Köln
 - Bildbearbeitung, Videoediting
 - Erarbeitung und erfolgreiche Umsetzung von innovativen Technologien in WebGL/WebXR
 - Erfolgreiche Mitarbeit an der App und Website AR Galaxy für Samsung
-
-## Qualifizierung
-### C#/.NET
-
-IBB Institut für Berufliche Bildung AG, Köln
-10.2024 – 11.2024
-
-
-- Erfolgreiche Qualifizierung in Kursen C# Objektorientierung, C# Erweiterte Techniken, C# Anwendungsentwicklung
-- Zusätzliche erfolgreiche Qualifizierung in Lernen und Arbeiten in einer digitalen Lernumgebung
 
 ## Bildung
 ### Bachelor in Medieninformatik (Bachelor of Science)
